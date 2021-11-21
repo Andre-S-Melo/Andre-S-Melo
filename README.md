@@ -2,12 +2,11 @@
 
 - 🌱 Estudando Desenvolvimento Web Full Stack
 - 📫 Contate-me no e-mail: adr.smelo@gmail.com
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/Andre-S-Melo">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Andre-S-Melo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-S-Melo&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Andre-S-Melo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-S-Melo&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>Cofee
