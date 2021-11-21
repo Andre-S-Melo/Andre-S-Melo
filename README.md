@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/Andre-S-Melo">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Andre-S-Melo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-S-Melo&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Andre-S-Melo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-S-Melo&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>Cofee
@@ -15,7 +15,7 @@
   <img align="center" alt="bose-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="bose-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="bose-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="bose-pic" height="180" style="border-radius:50px;" src="Image/Attachment.png">
+  <img align="right" alt="bose-pic" height="170" style="border-radius:50px;" src="Image/Attachment.png">
 </div>
  
 ##
