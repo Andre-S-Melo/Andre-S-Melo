@@ -5,11 +5,10 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Andre-S-Melo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-S-Melo&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-<br>
 
-<div  align="center"> 
+<div align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" alt="bose-pic" height="250" src="Image/code.gif">
+    <img align="left" alt="bose-pic" height="300" src="Image/Attachment.png">
     <h1 align="center">Melhores Tecnologias <3</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
