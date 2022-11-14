@@ -9,7 +9,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" alt="bose-pic" height="260" src="Image/Attachment.png">
+    <img align="left" alt="bose-pic" height="250" src="Image/Attachment.png">
     <h1 align="center">Melhores Tecnologias <3</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
