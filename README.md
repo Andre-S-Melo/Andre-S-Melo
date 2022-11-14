@@ -21,16 +21,12 @@
     <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
-</div>
+  </div>
     
-  
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: work.adr.smelo@gmail.com"><img width="30" src="Image/gmail.svg"></a>
-    <a href = ""https://www.linkedin.com/in/adr-smelo" target="_blank"><img width="25" src="Image/linkedin.svg" target="_blank"></a>
-    
-    <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg"><img width="35" src="youtube.svg"></a>
-    
-    <a href = "https://www.instagram.com/devparadev/"><img width="25" src="instagram.png"></a>
+    <a href = "https://www.linkedin.com/in/adr-smelo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href = "https://www.instagram.com/andre_x_melo/"><img width="25" src="Image/instagram.png"></a>
 </div>
   
 
