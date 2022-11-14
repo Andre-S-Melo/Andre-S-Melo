@@ -25,19 +25,14 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: work.adr.smelo@gmail.com">
-      <img width="30" src="Image/gmail.svg">
-    </a>
-    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
-      <img width="25" src="linkedin.svg">
-    </a>
-    <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
-      <img width="35" src="youtube.svg">
-    </a>
-    <a href = "https://www.instagram.com/devparadev/">
-      <img width="25" src="instagram.png">
-    </a>
+    <a href = "mailto: work.adr.smelo@gmail.com"><img width="30" src="Image/gmail.svg"></a>
+    <a href = ""https://www.linkedin.com/in/adr-smelo" target="_blank"><img width="25" src="Image/linkedin.svg" target="_blank"></a>
+    
+    <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg"><img width="35" src="youtube.svg"></a>
+    
+    <a href = "https://www.instagram.com/devparadev/"><img width="25" src="instagram.png"></a>
 </div>
+  
 
 <!-- <div style="display: inline_block"><br>
   <img align="center" alt="bose-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
