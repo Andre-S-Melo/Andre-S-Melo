@@ -1,8 +1,5 @@
 ## Olá! Eu sou o André Melo 👋
 
-- 🌱 Estudando Desenvolvimento Web Full Stack
-- 📫 Contate-me no e-mail: adr.smelo@gmail.com
-
 <div align="center">
   <a href="https://github.com/Andre-S-Melo">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Andre-S-Melo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -12,7 +9,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" alt="bose-pic" height="250" src="Image/Attachment.png">
+    <img align="left" alt="bose-pic" height="260" src="Image/Attachment.png">
     <h1 align="center">Melhores Tecnologias <3</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -24,9 +21,9 @@
   </div>
     
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: work.adr.smelo@gmail.com"><img width="30" src="Image/gmail.svg"></a>
+    <a href = "mailto: work.adr.smelo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href = "https://www.linkedin.com/in/adr-smelo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href = "https://www.instagram.com/andre_x_melo/"><img width="25" src="Image/instagram.png"></a>
+    <a href = "https://www.instagram.com/andre_x_melo/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
   
 
